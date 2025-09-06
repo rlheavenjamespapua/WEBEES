@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> GROUP 1 WEBPAGE</title>
+</head>
+<body background="mybacksunset.jpg">
+<h1 align="center"> GROUP 1 HOMEPAGE<br></h1>
+<hr>
+<a href="https://papuarlheavenjames.wixsite.com/webees">GROUP 1 WEBSITE</a>
+<h3> welcome to our portal </h3>
+<b> THE QUOTES HELP US TO MOTIVATE</b><br>
+<ul> QUOTES:
+<li> time is gold</li><img src="timeisgold.jpg" width="350" height="300"><br>
+<li> god is good </li> <img src="godisgood.jpeg" width="350" height="300"><br>
+<li> life is not a problem to be solved but a reality to be experience</li><br> <img src="lifeisnotaproblem.jpg" width="350" height="300"><br>
+
+</ul>
+</body>
+</html>
